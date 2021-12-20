@@ -5,4 +5,4 @@
 - **Completed challenges**
 ### This project is about Unity Learn Projects
 It is a breakdown of the **challenges**, **units** and the like within the **Junior Programmer Pathway** course/path on the learning platform called Unity Learn on Unity's website. <br/> <br/>
-For more - [Unity Learn](https://learn.unity.com) -
+For more :point_right: - [Unity Learn](https://learn.unity.com) -
