@@ -6,5 +6,5 @@ It is a breakdown of the **challenges**, **units** and the like within the **Jun
 - :white_check_mark: **Completed main prototypes**
 - :white_check_mark: **Completed challenges** <br/> <hr/>
 ### If You Want to Review
-👉 My Unity Profile - [Unity Profile Link](https://learn.unity.com/u/5ef45eccedbc2a001fb1037f?tab=profile) - <br/>
-👉 And for more - [Unity Learn](https://learn.unity.com) -
+👉 My Unity Learn Profile - [My Unity Learn Profile Link](https://learn.unity.com/u/5ef45eccedbc2a001fb1037f?tab=profile) - <br/>
+👉 And For More - [Unity Learn](https://learn.unity.com) -
