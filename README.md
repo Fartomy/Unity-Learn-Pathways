@@ -10,7 +10,7 @@ It is a breakdown of the **challenges**, **units** and the like within the **Jun
 <img src="https://docs.unity3d.com/uploads/Main/AnalyticsBasicImportPackage.gif" align="center" height="250">
 
 ## Optimized Files
-These files are the files of the section in the **Next Steps** section of the Unity JPP course. I also added something in optimization context for Prototypes after Prototype 2.
+These files are the files of the section in the **Next Steps** section of the Unity JPP course. I will also added something in optimization context for Prototypes after Prototype 2.
 ### Variable Attributes
 Some Variable Attributes I use;
 - [[SerializeField]](https://docs.unity3d.com/ScriptReference/SerializeField.html)
