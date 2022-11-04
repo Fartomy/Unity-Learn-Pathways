@@ -25,5 +25,5 @@ Some Event Functions I use;
 <hr/>
 
 ### If You Want to Review
-👉 My Unity Learn Profile - [My Unity Learn Profile Link](https://learn.unity.com/u/5ef45eccedbc2a001fb1037f?tab=profile) - <br/>
-👉 And For More - [Unity Learn](https://learn.unity.com) -
+[My Unity Learn Profile Link](https://learn.unity.com/u/5ef45eccedbc2a001fb1037f?tab=profile) <br/>
+[Unity Learn](https://learn.unity.com)
