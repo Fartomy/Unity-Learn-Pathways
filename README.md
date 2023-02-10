@@ -1,4 +1,4 @@
-![Poster to view](https://connect-prd-cdn.unity.com/cdn-origin/assets/styles/i/svgicons/unity_learn_logo_new.3b328f9069e10481bfedd33aa519d5cd.svg)
+![Poster to view](https://github.com/Fartomy/Unity-Learn-Projects/blob/main/images/unitylearn.svg)
 #
 ### Description
 It is a breakdown of the **challenges**, **units** and the like within the **Junior Programmer Pathway** course/path on the learning platform called Unity Learn on Unity's website.
@@ -7,7 +7,7 @@ It is a breakdown of the **challenges**, **units** and the like within the **Jun
 - :white_check_mark: **Completed challenges** 
 
 ## How to Import Package
-<img src="https://docs.unity3d.com/uploads/Main/AnalyticsBasicImportPackage.gif" align="center" height="250">
+<img src="https://github.com/Fartomy/Unity-Learn-Projects/blob/main/images/package.gif" align="center" height="300">
 
 ## Optimized Files
 These files are the files of the section in the **Next Steps** section of the Unity JPP course. I will also added something in optimization context for Prototypes after Prototype 2.
