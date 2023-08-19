@@ -26,6 +26,7 @@
 # Visual Studio cache directory and config file
 .vs/
 .vscode/
+.vsconfig/
 
 # Rider config file
 .idea/
